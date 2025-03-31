@@ -1,6 +1,4 @@
 # Background-Stars
 A creative stars background
 
-<div>
-    <img src="https://imgur.com/a/i3WV6VA" width="500" alt="Background Stars">
-</div>
+<img align="right" src="https://imgur.com/a/i3WV6VA" alt="Background Stars" style="min-width: 100px; max-width: 100px; width: 100px;">
